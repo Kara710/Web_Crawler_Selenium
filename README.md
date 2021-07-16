@@ -1,10 +1,12 @@
 # Web_Crawler_Selenium
 
 1. Install python3-selenium 
-```sudo apt install python3-selenium 
+```
+sudo apt install python3-selenium 
 ```
 or 
-```pip3 install selenium
+```
+pip3 install selenium
 ```
 2. Install PhantomJS (Optional)
 Dependent package installation
