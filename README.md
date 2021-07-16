@@ -1,5 +1,5 @@
 # Web_Crawler_Selenium
-This script was created to search the available appointments on Greek Embassy and print them on command line. Firstly, I use Selenium because the data is loaded dynamic via Javascript. Secondly, I use the package Beautiful Soup for parsing HTML tags.
+This script was created to search the available appointments on Greek Embassy and print them on command line. Firstly, I use Selenium because the data is created dynamic via Javascript. Secondly, I use the package Beautiful Soup for parsing HTML tags.
 <br>
 <br>
 It is important to find the right paths of the urls. I use the "Developer Tools"->Network for grabbing the GET requests and analyse the right paths.
